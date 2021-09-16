@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AMQP.Exemplo
+build_property.ProjectDir = C:\Projetos\CanalDotNet-MessageBroker\protocols\01-AMQP\AMQP.Exemplo\

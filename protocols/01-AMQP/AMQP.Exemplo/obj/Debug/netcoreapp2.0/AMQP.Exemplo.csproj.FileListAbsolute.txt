@@ -1,0 +1,13 @@
+C:\Projetos\CanalDotNet-MessageBroker\protocols\01-AMQP\AMQP.Exemplo\bin\Debug\netcoreapp2.0\AMQP.Exemplo.deps.json
+C:\Projetos\CanalDotNet-MessageBroker\protocols\01-AMQP\AMQP.Exemplo\bin\Debug\netcoreapp2.0\AMQP.Exemplo.runtimeconfig.json
+C:\Projetos\CanalDotNet-MessageBroker\protocols\01-AMQP\AMQP.Exemplo\bin\Debug\netcoreapp2.0\AMQP.Exemplo.runtimeconfig.dev.json
+C:\Projetos\CanalDotNet-MessageBroker\protocols\01-AMQP\AMQP.Exemplo\bin\Debug\netcoreapp2.0\AMQP.Exemplo.dll
+C:\Projetos\CanalDotNet-MessageBroker\protocols\01-AMQP\AMQP.Exemplo\bin\Debug\netcoreapp2.0\AMQP.Exemplo.pdb
+C:\Projetos\CanalDotNet-MessageBroker\protocols\01-AMQP\AMQP.Exemplo\obj\Debug\netcoreapp2.0\AMQP.Exemplo.csproj.AssemblyReference.cache
+C:\Projetos\CanalDotNet-MessageBroker\protocols\01-AMQP\AMQP.Exemplo\obj\Debug\netcoreapp2.0\AMQP.Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\CanalDotNet-MessageBroker\protocols\01-AMQP\AMQP.Exemplo\obj\Debug\netcoreapp2.0\AMQP.Exemplo.AssemblyInfoInputs.cache
+C:\Projetos\CanalDotNet-MessageBroker\protocols\01-AMQP\AMQP.Exemplo\obj\Debug\netcoreapp2.0\AMQP.Exemplo.AssemblyInfo.cs
+C:\Projetos\CanalDotNet-MessageBroker\protocols\01-AMQP\AMQP.Exemplo\obj\Debug\netcoreapp2.0\AMQP.Exemplo.csproj.CoreCompileInputs.cache
+C:\Projetos\CanalDotNet-MessageBroker\protocols\01-AMQP\AMQP.Exemplo\obj\Debug\netcoreapp2.0\AMQP.Exemplo.dll
+C:\Projetos\CanalDotNet-MessageBroker\protocols\01-AMQP\AMQP.Exemplo\obj\Debug\netcoreapp2.0\AMQP.Exemplo.pdb
+C:\Projetos\CanalDotNet-MessageBroker\protocols\01-AMQP\AMQP.Exemplo\obj\Debug\netcoreapp2.0\AMQP.Exemplo.genruntimeconfig.cache
